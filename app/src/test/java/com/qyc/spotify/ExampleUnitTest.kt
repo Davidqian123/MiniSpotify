@@ -1,4 +1,4 @@
-package com.laioffer.spotify
+package com.qyc.spotify
 
 import org.junit.Test
 

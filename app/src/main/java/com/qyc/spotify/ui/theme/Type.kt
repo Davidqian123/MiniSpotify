@@ -1,4 +1,4 @@
-package com.laioffer.spotify.ui.theme
+package com.qyc.spotify.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
